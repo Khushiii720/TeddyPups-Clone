@@ -1,0 +1,172 @@
+{
+  "routes": 49,
+  "profiles": 42,
+  "available": 15,
+  "gone_home": 27,
+  "family_photos": 64,
+  "local_assets": 218,
+  "asset_integrity": "all referenced local files exist",
+  "typescript": "passed",
+  "production_build": "passed",
+  "browser_checks": [
+    "desktop homepage",
+    "catalogue Maltipoo filter: 6 results",
+    "profile lightbox photo/video navigation",
+    "FAQ accordion/search",
+    "contact demo submission",
+    "imported process tab",
+    "390px mobile layout and menu"
+  ],
+  "known_limits": [
+    "Demo enquiries unless VITE_ENQUIRY_ENDPOINT is configured",
+    "JavaScript animation timing and mascot orchestration reconstructed",
+    "No original admin backend included"
+  ],
+  "cursor_trail": {
+    "reference": "PawTrailCanvas public client component",
+    "step_px": 46,
+    "alternating_offset_px": 7,
+    "scale": 0.27,
+    "color": "#c2622b",
+    "opacity": 0.42,
+    "hold_ms": 600,
+    "fade_ms": 400,
+    "max_prints": 14,
+    "tests": "passed: spacing, alternating offsets, fade lifetime, mouse-only, reduced motion, DPR cap, listener cleanup",
+    "scope": "single canvas mounted across all routes; existing pages preserved"
+  },
+  "homepage_scroll_puppy": {
+    "engine": "isolated local reference motion modules, React integration and RAF adapter",
+    "video_analyzed": {
+      "duration_seconds": 37.374,
+      "fps": 60,
+      "resolution": "1376x736"
+    },
+    "features": [
+      "leg gait",
+      "turning and facing interpolation",
+      "ear and tail physics",
+      "idle blinking",
+      "curved travel",
+      "hop and foreground layering",
+      "basket idle pose",
+      "reverse scroll",
+      "desktop treadmill walk",
+      "mobile edge lane"
+    ],
+    "browser_verified": {
+      "active_actors": 1,
+      "desktop_gait": "front leg rotation observed at 29.87 degrees in walk cycle",
+      "desktop_facing": "root scale changes sign during turning",
+      "treadmill": "holding=true; track and floor translate; walk metadata active",
+      "basket": "holding=true; foreground=false; body opacity ~0.01; puppy behind basket rim",
+      "reverse": "foreground=true; actor exits basket and travels upward",
+      "mobile": "390px responsive view: hero, basket holding and reverse return passed",
+      "route_cleanup": "mobile navigation to Puppies completed"
+    },
+    "production_build": "passed",
+    "fidelity": "reference controller reused locally; visual timing depends on actual viewport and scroll input"
+  },
+  "how_it_works_flight": {
+    "route": "/how-it-works",
+    "svg_path": "M40 250 C 170 40, 470 20, 620 168",
+    "offsets": [
+      "start 95%",
+      "end 25%"
+    ],
+    "orientation": "SVG route tangent sampled at arc-length +/- 1",
+    "opacity": "clamp((progress - 0.11) / 0.06, 0, 1)",
+    "reduced_motion": "stationary at 0.62",
+    "desktop_observed": [
+      "0.00000: translate(40.0 250.0) rotate(-58.1)",
+      "0.64543: translate(408.3 73.9) rotate(5.5)",
+      "1.00000: translate(620.0 168.0) rotate(44.5)",
+      "reverse 0.30587: translate(188.7 114.4) rotate(-26.7)",
+      "reverse to 0.00000 passed"
+    ],
+    "mobile_observed": [
+      "390px: forward progress 0.83334",
+      "reverse to 0.00000 passed"
+    ],
+    "unit_check": "reference viewport offsets, progress bounds, forward/reverse mapping and repeatability passed",
+    "build": "passed"
+  },
+  "page_puppy_motion": {
+    "engine": "existing isolated reference PuppyDriver; no remote runtime",
+    "pages": {
+      "/puppies": 1,
+      "/happy-families": 1,
+      "/how-it-works": 2,
+      "/faq": 1,
+      "/contact": 1
+    },
+    "features": [
+      "natural blinking",
+      "mouse eye tracking",
+      "continuous tail wag",
+      "happy closed eyes on hover",
+      "normal expression on pointer leave",
+      "visibility pause",
+      "route cleanup",
+      "reduced-motion fallback"
+    ],
+    "browser_observed": {
+      "all_pages": "expected live actor counts verified",
+      "puppies_tail_samples": [
+        "rotate(40.9 84 150)",
+        "rotate(25.67 84 150)"
+      ],
+      "puppies_hover": {
+        "petting": true,
+        "open_opacity": "0.1",
+        "happy_opacity": "0.9"
+      },
+      "puppies_after_leave": {
+        "petting": false,
+        "open_opacity": "0.94",
+        "happy_opacity": "0.06"
+      },
+      "contact_hover": {
+        "petting": true,
+        "open_opacity": "0",
+        "happy_opacity": "1"
+      }
+    },
+    "typescript": "passed",
+    "production_build": "passed"
+  },
+  "profile_scroll_ribbon": {
+    "scope": "42 existing puppy detail templates",
+    "implementation": "src/animations.ts, existing shared scroll/resize lifecycle",
+    "reference_offsets": [
+      "start 30%",
+      "end end"
+    ],
+    "reference_samples_matched": [
+      0.114426,
+      0.573695
+    ],
+    "checks": [
+      "42 ribbon templates found",
+      "reference positions match within 0.000001 using clientHeight, as reference scroll measurement does",
+      "start/end positions, clamping and reverse mapping passed",
+      "TypeScript and Vite build passed"
+    ],
+    "preserved": "existing CSS, markup, gradients, sticky positioning, desktop breakpoint and all earlier features",
+    "browser_limit": "Local preview could not be opened in the browser environment; reference inspected live and mapping validated numerically."
+  },
+  "homepage_flight": {
+    "route": "/",
+    "implementation": "existing FlightMotion controller enabled on homepage",
+    "preserved_route": "/how-it-works",
+    "checks": [
+      "actual hook executed with mocked DOM: homepage and How it works forward 0 -> 1, reverse 1 -> 0.5 -> 0",
+      "original transform restored and listeners removed on cleanup",
+      "reduced motion stays at 0.62",
+      "unrelated /faq route does not attach controller",
+      "TypeScript and production build passed"
+    ],
+    "fidelity": "same existing dotted SVG path, arc-length position, tangent rotation, fade and viewport offsets",
+    "source_scope": "one route guard in src/FlightMotion.ts changed; all other implementation files and assets unchanged"
+  }
+}

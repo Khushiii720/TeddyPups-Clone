@@ -1,0 +1,247 @@
+{
+  "/": {
+    "template": "home",
+    "title": "TeddyPups U.A.E. — Premium teacup puppies in Dubai",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies": {
+    "template": "puppies",
+    "title": "Available puppies | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/happy-families": {
+    "template": "happy-families",
+    "title": "Happy families | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/how-it-works": {
+    "template": "how-it-works",
+    "title": "How it works | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/faq": {
+    "template": "faq",
+    "title": "Questions & answers | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/contact": {
+    "template": "contact",
+    "title": "Visit & contact | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/gone-home": {
+    "template": "gone-home",
+    "title": "Gone home | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-max-male": {
+    "template": "puppies__maltipoo-max-male",
+    "title": "Max, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/korean-teacup-maltipoo-female": {
+    "template": "puppies__korean-teacup-maltipoo-female",
+    "title": "Korean Teacup Maltipoo puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/korean-teacup-poodle-female": {
+    "template": "puppies__korean-teacup-poodle-female",
+    "title": "Korean Teacup Poodle puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-cavapoo-male": {
+    "template": "puppies__maltipoo-cavapoo-male",
+    "title": "Maltipoo & Cavapoo puppy (boy) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/toy-poodle-male-female": {
+    "template": "puppies__toy-poodle-male-female",
+    "title": "Toy Poodle puppy (boy & girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-female-2": {
+    "template": "puppies__maltipoo-female-2",
+    "title": "Maltipoo puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-female": {
+    "template": "puppies__pomeranian-female",
+    "title": "Pomeranian puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/copper-male": {
+    "template": "puppies__copper-male",
+    "title": "Copper, Cavapoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/shitzu-female": {
+    "template": "puppies__shitzu-female",
+    "title": "Shih Tzu puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/shitzu-male": {
+    "template": "puppies__shitzu-male",
+    "title": "Shih Tzu puppy (boy) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-female-1": {
+    "template": "puppies__maltipoo-female-1",
+    "title": "Maltipoo puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-female": {
+    "template": "puppies__maltipoo-female",
+    "title": "Maltipoo puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/korean-teacup-pomeranian-1": {
+    "template": "puppies__korean-teacup-pomeranian-1",
+    "title": "Korean Teacup Pomeranian puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/korean-teacup-pomeranian": {
+    "template": "puppies__korean-teacup-pomeranian",
+    "title": "Korean Teacup Pomeranian puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/korean-teacup-pomeranian-male": {
+    "template": "puppies__korean-teacup-pomeranian-male",
+    "title": "Korean Teacup Pomeranian puppy (boy) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-ace-boy": {
+    "template": "puppies__pomeranian-ace-boy",
+    "title": "Ace, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/poodle-leo-male": {
+    "template": "puppies__poodle-leo-male",
+    "title": "Leo, Poodle puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-mia-girl": {
+    "template": "puppies__maltipoo-mia-girl",
+    "title": "Mia, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-sadie-girl": {
+    "template": "puppies__maltipoo-sadie-girl",
+    "title": "Sadie, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/blue-marle-pomeranian": {
+    "template": "puppies__blue-marle-pomeranian",
+    "title": "Pomeranian puppy (boy) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomsky-ollie-boy": {
+    "template": "puppies__pomsky-ollie-boy",
+    "title": "Ollie, Pomsky puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-bruno-boy": {
+    "template": "puppies__maltipoo-bruno-boy",
+    "title": "Bruno, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltese-buddy-male": {
+    "template": "puppies__maltese-buddy-male",
+    "title": "Buddy, Maltese puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltese-charlie-male": {
+    "template": "puppies__maltese-charlie-male",
+    "title": "Charlie, Maltese puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-daisy-girl": {
+    "template": "puppies__pomeranian-daisy-girl",
+    "title": "Daisy, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-bella-female": {
+    "template": "puppies__pomeranian-bella-female",
+    "title": "Bella, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/poodle-teddy-male": {
+    "template": "puppies__poodle-teddy-male",
+    "title": "Teddy, Poodle puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/poodle-molly-female": {
+    "template": "puppies__poodle-molly-female",
+    "title": "Molly, Poodle puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomski-coco-girl": {
+    "template": "puppies__pomski-coco-girl",
+    "title": "Coco, Pomsky puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomsky-rosie-girl": {
+    "template": "puppies__pomsky-rosie-girl",
+    "title": "Rosie, Pomsky puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-leo-boy": {
+    "template": "puppies__pomeranian-leo-boy",
+    "title": "Leo, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/poodle-molly-girl": {
+    "template": "puppies__poodle-molly-girl",
+    "title": "Molly, Poodle puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/poodle-rocky-boy": {
+    "template": "puppies__poodle-rocky-boy",
+    "title": "Rocky, Poodle puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-sophie-girl": {
+    "template": "puppies__maltipoo-sophie-girl",
+    "title": "Sophie, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-lola-girl": {
+    "template": "puppies__maltipoo-lola-girl",
+    "title": "Lola, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-rex-boy": {
+    "template": "puppies__pomeranian-rex-boy",
+    "title": "Rex, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomsky-finn-male": {
+    "template": "puppies__pomsky-finn-male",
+    "title": "Finn, Pomsky puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipoo-zoe-girl": {
+    "template": "puppies__maltipoo-zoe-girl",
+    "title": "Zoe, Maltipoo puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/pomeranian-mimi-girl": {
+    "template": "puppies__pomeranian-mimi-girl",
+    "title": "Mimi, Pomeranian puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/bichon-bailey-boy": {
+    "template": "puppies__bichon-bailey-boy",
+    "title": "Bailey, Bichon puppy | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/puppy": {
+    "template": "puppies__puppy",
+    "title": "Maltipoo puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  },
+  "/puppies/maltipo": {
+    "template": "puppies__maltipo",
+    "title": "Poodle puppy (girl) | TeddyPups U.A.E.",
+    "htmlClass": "Veu4Sq_variable hpvSLW_variable _91XIoq_variable"
+  }
+}
