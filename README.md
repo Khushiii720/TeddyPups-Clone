@@ -1,5 +1,7 @@
 # TeddyPups — React + TypeScript website clone
 
+Deployed URL of Clone:  https://warm-cucurucho-edd5f0.netlify.app/
+
 Reference: https://puppy.instabizweb.com/
 
 ## Run locally
